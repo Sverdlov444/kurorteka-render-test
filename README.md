@@ -1,1 +1,0 @@
-# kurorteka-render-test
